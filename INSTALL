@@ -1,0 +1,9 @@
+Building albatroscoin
+
+See doc/readme-qt.rst for instructions on building albatroscoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of albatroscoin.
+
+See doc/build-*.txt for instructions on building albatroscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of albatroscoin.
